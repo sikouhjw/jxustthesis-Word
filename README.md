@@ -4,6 +4,7 @@
 - [support_gdutthesis@163.com](mailto:support_gdutthesis@163.com)
 - [Releases](https://github.com/sikouhjw/jxustthesis-Word/releases/latest)
 - [Wiki](https://github.com/sikouhjw/gdutthesis-Word/wiki)
+- 《[江西理工大学本硕博 Word 论文模板](https://www.bilibili.com/video/BV1zb4y1W7rr)》
 
 ## 欢迎使用 jxustthesis-Word（江西理工大学 Word 论文模板）
 
